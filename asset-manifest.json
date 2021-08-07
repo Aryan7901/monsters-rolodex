@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Aryan7901/monsters-rolodex/static/css/main.b4ba4dae.chunk.css",
+    "main.js": "/Aryan7901/monsters-rolodex/static/js/main.bee6790a.chunk.js",
+    "main.js.map": "/Aryan7901/monsters-rolodex/static/js/main.bee6790a.chunk.js.map",
+    "runtime-main.js": "/Aryan7901/monsters-rolodex/static/js/runtime-main.d3b333c7.js",
+    "runtime-main.js.map": "/Aryan7901/monsters-rolodex/static/js/runtime-main.d3b333c7.js.map",
+    "static/js/2.f320b279.chunk.js": "/Aryan7901/monsters-rolodex/static/js/2.f320b279.chunk.js",
+    "static/js/2.f320b279.chunk.js.map": "/Aryan7901/monsters-rolodex/static/js/2.f320b279.chunk.js.map",
+    "static/js/3.aab93fdf.chunk.js": "/Aryan7901/monsters-rolodex/static/js/3.aab93fdf.chunk.js",
+    "static/js/3.aab93fdf.chunk.js.map": "/Aryan7901/monsters-rolodex/static/js/3.aab93fdf.chunk.js.map",
+    "index.html": "/Aryan7901/monsters-rolodex/index.html",
+    "static/css/main.b4ba4dae.chunk.css.map": "/Aryan7901/monsters-rolodex/static/css/main.b4ba4dae.chunk.css.map",
+    "static/js/2.f320b279.chunk.js.LICENSE.txt": "/Aryan7901/monsters-rolodex/static/js/2.f320b279.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d3b333c7.js",
+    "static/js/2.f320b279.chunk.js",
+    "static/css/main.b4ba4dae.chunk.css",
+    "static/js/main.bee6790a.chunk.js"
+  ]
+}
